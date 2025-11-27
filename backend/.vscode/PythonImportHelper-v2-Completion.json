@@ -1,0 +1,887 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "CommandError",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "call_command",
+        "importPath": "django.core.management",
+        "description": "django.core.management",
+        "isExtraImport": true,
+        "detail": "django.core.management",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOM_APPS",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOM_APPS",
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "isExtraImport": true,
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GetCustomApps",
+        "importPath": "core_utils.utils.db_utils.get_custom_apps",
+        "description": "core_utils.utils.db_utils.get_custom_apps",
+        "isExtraImport": true,
+        "detail": "core_utils.utils.db_utils.get_custom_apps",
+        "documentation": {}
+    },
+    {
+        "label": "os,shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.shutil",
+        "description": "os.shutil",
+        "detail": "os.shutil",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "apps",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CoreGenericModel",
+        "importPath": "core_utils.utils.generics.generic_models",
+        "description": "core_utils.utils.generics.generic_models",
+        "isExtraImport": true,
+        "detail": "core_utils.utils.generics.generic_models",
+        "documentation": {}
+    },
+    {
+        "label": "CoreGenericModel",
+        "importPath": "core_utils.utils.generics.generic_models",
+        "description": "core_utils.utils.generics.generic_models",
+        "isExtraImport": true,
+        "detail": "core_utils.utils.generics.generic_models",
+        "documentation": {}
+    },
+    {
+        "label": "CoreGenericModel",
+        "importPath": "core_utils.utils.generics.generic_models",
+        "description": "core_utils.utils.generics.generic_models",
+        "isExtraImport": true,
+        "detail": "core_utils.utils.generics.generic_models",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "EnumChoices",
+        "importPath": "core_utils.utils.enums",
+        "description": "core_utils.utils.enums",
+        "isExtraImport": true,
+        "detail": "core_utils.utils.enums",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "user_config.user_auth.models",
+        "description": "user_config.user_auth.models",
+        "isExtraImport": true,
+        "detail": "user_config.user_auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "CityModel",
+        "importPath": "core_utils.region_data.models",
+        "description": "core_utils.region_data.models",
+        "isExtraImport": true,
+        "detail": "core_utils.region_data.models",
+        "documentation": {}
+    },
+    {
+        "label": "CountryModel",
+        "importPath": "core_utils.region_data.models",
+        "description": "core_utils.region_data.models",
+        "isExtraImport": true,
+        "detail": "core_utils.region_data.models",
+        "documentation": {}
+    },
+    {
+        "label": "StateModel",
+        "importPath": "core_utils.region_data.models",
+        "description": "core_utils.region_data.models",
+        "isExtraImport": true,
+        "detail": "core_utils.region_data.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRoleEnum",
+        "importPath": "user_config.accounts.enums",
+        "description": "user_config.accounts.enums",
+        "isExtraImport": true,
+        "detail": "user_config.accounts.enums",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "core.core.asgi",
+        "description": "core.core.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "core.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = config(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'user_auth.UserModel'\n# Application definition",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "SECRET_KEY = config(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'user_auth.UserModel'\n# Application definition\nCUSTOM_APPS = [\n    'user_config',\n    'core_utils',\n    'user_config.accounts',",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'user_auth.UserModel'\n# Application definition\nCUSTOM_APPS = [\n    'user_config',\n    'core_utils',\n    'user_config.accounts',\n    'core_utils.region_data',\n    'user_config.user_auth',",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nAUTH_USER_MODEL = 'user_auth.UserModel'\n# Application definition\nCUSTOM_APPS = [\n    'user_config',\n    'core_utils',\n    'user_config.accounts',\n    'core_utils.region_data',\n    'user_config.user_auth',\n]",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'user_auth.UserModel'\n# Application definition\nCUSTOM_APPS = [\n    'user_config',\n    'core_utils',\n    'user_config.accounts',\n    'core_utils.region_data',\n    'user_config.user_auth',\n]\nTHIRD_PARTY_APPS = [",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOM_APPS",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "CUSTOM_APPS = [\n    'user_config',\n    'core_utils',\n    'user_config.accounts',\n    'core_utils.region_data',\n    'user_config.user_auth',\n]\nTHIRD_PARTY_APPS = [\n]\nINSTALLED_APPS = [",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "THIRD_PARTY_APPS",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "THIRD_PARTY_APPS = [\n]\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    *CUSTOM_APPS,",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    *CUSTOM_APPS,\n    *THIRD_PARTY_APPS\n]",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'core.urls'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "ROOT_URLCONF = 'core.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'core.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        \"ENGINE\": config(\"ENGINE\"),\n        \"NAME\": config(\"DB_NAME\"),\n        \"USER\": config(\"DB_USER\"),\n        \"PASSWORD\": config(\"DB_PASSWORD\"),\n        \"HOST\": config(\"DB_HOST\"),",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        \"ENGINE\": config(\"ENGINE\"),\n        \"NAME\": config(\"DB_NAME\"),\n        \"USER\": config(\"DB_USER\"),\n        \"PASSWORD\": config(\"DB_PASSWORD\"),\n        \"HOST\": config(\"DB_HOST\"),\n        \"PORT\": config(\"DB_PORT\"),\n    }\n}",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "core.core.settings",
+        "description": "core.core.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "core.core.urls",
+        "description": "core.core.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "core.core.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "core.core.wsgi",
+        "description": "core.core.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "core.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "core.core_utils.management.commands.custom_makemigrations",
+        "description": "core.core_utils.management.commands.custom_makemigrations",
+        "peekOfCode": "class Command(BaseCommand,GetCustomApps):\n    help = \"Custom makemigrations command for only CUSTOM_APPS defined in settings.py\"\n    CUSTOM_APPS = getattr(settings,\"CUSTOM_APPS\")\n    def handle(self, *args, **options):\n        custom_apps = self.refactor_command(CUSTOM_APPS)\n        if not custom_apps:\n            raise CommandError(\"CUSTOM_APPS is not defined in settings.py file\")\n        try:\n            call_command(\"makemigrations\",*custom_apps)\n            self.stdout.write(f\"Migrations created for apps: {custom_apps}\")",
+        "detail": "core.core_utils.management.commands.custom_makemigrations",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "core.core_utils.management.commands.delete_migration_files",
+        "description": "core.core_utils.management.commands.delete_migration_files",
+        "peekOfCode": "class Command(BaseCommand):\n    help : str = \"Deletes all migration folders and their contents from all Django apps\"\n    def handle(self,*args,**kwargs):\n        project_root = os.getcwd()\n        for root,dirs,files in os.walk(project_root):\n            if \"migrations\" in dirs:\n                migrations_dirs = os.path.join(root,\"migrations\")\n                self.stdout.write(f\"Deleting migrations folder: {migrations_dirs}\")\n                try:\n                    shutil.rmtree(migrations_dirs)",
+        "detail": "core.core_utils.management.commands.delete_migration_files",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.core_utils.region_data.migrations.0001_initial",
+        "description": "core.core_utils.region_data.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CityModel',\n            fields=[\n                ('core_generic_created_at', models.DateTimeField(auto_now_add=True, db_column='CORE_GENERIC_CREATED_AT', null=True)),\n                ('core_generic_updated_at', models.DateTimeField(auto_now=True, db_column='CORE_GENERIC_UPDATED_AT', null=True)),",
+        "detail": "core.core_utils.region_data.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.core_utils.region_data.migrations.0002_initial",
+        "description": "core.core_utils.region_data.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('region_data', '0001_initial'),\n        ('user_auth', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='citymodel',\n            name='core_generic_created_by',",
+        "detail": "core.core_utils.region_data.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "RegionDataConfig",
+        "kind": 6,
+        "importPath": "core.core_utils.region_data.apps",
+        "description": "core.core_utils.region_data.apps",
+        "peekOfCode": "class RegionDataConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core_utils.region_data'\n    label = 'region_data'",
+        "detail": "core.core_utils.region_data.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CountryModel",
+        "kind": 6,
+        "importPath": "core.core_utils.region_data.models",
+        "description": "core.core_utils.region_data.models",
+        "peekOfCode": "class CountryModel(CoreGenericModel):\n    id = models.BigAutoField(\n        primary_key=True,\n        db_column=\"COUNTRY_ID\"\n    )\n    name = models.CharField(\n        max_length=100,\n        db_column=\"COUNTRY_NAME\"\n    )\nclass StateModel(CoreGenericModel):",
+        "detail": "core.core_utils.region_data.models",
+        "documentation": {}
+    },
+    {
+        "label": "StateModel",
+        "kind": 6,
+        "importPath": "core.core_utils.region_data.models",
+        "description": "core.core_utils.region_data.models",
+        "peekOfCode": "class StateModel(CoreGenericModel):\n    id = models.BigAutoField(\n        primary_key=True,\n        db_column=\"STATE_ID\"\n    )\n    name = models.CharField(\n        max_length=100,\n        db_column=\"STATE_NAME\"\n    )\n    country = models.ForeignKey(",
+        "detail": "core.core_utils.region_data.models",
+        "documentation": {}
+    },
+    {
+        "label": "CityModel",
+        "kind": 6,
+        "importPath": "core.core_utils.region_data.models",
+        "description": "core.core_utils.region_data.models",
+        "peekOfCode": "class CityModel(CoreGenericModel):\n    id = models.BigAutoField(\n        primary_key=True,\n        db_column=\"CITY_ID\"\n    )\n    name = models.CharField(\n        max_length=100,\n        db_column=\"CITY_NAME\"\n    )\n    state = models.ForeignKey(",
+        "detail": "core.core_utils.region_data.models",
+        "documentation": {}
+    },
+    {
+        "label": "GetCustomApps",
+        "kind": 6,
+        "importPath": "core.core_utils.utils.db_utils.get_custom_apps",
+        "description": "core.core_utils.utils.db_utils.get_custom_apps",
+        "peekOfCode": "class GetCustomApps:\n    custom_apps : List = CUSTOM_APPS\n    def refactor_apps(self,app_name : str, app : List):\n        \"\"\"\n        Extracts and appends the final app name from a potentially nested app structure.\n        If the app name is a sub-app (e.g., \"user_config.user_auth\"),\n        it extracts only the final part (\"user_auth\") and appends it to the list.\n        Otherwise, it appends the app name as is.\n        Args:\n            app_names (str): The app name, which may be a sub-app in a dotted path.",
+        "detail": "core.core_utils.utils.db_utils.get_custom_apps",
+        "documentation": {}
+    },
+    {
+        "label": "CoreGenericModel",
+        "kind": 6,
+        "importPath": "core.core_utils.utils.generics.generic_models",
+        "description": "core.core_utils.utils.generics.generic_models",
+        "peekOfCode": "class CoreGenericModel(models.Model):\n    core_generic_created_at = models.DateTimeField(\n        auto_now_add=True,\n        null=True,\n        db_column=\"CORE_GENERIC_CREATED_AT\"\n    )\n    core_generic_updated_at = models.DateTimeField(\n        auto_now=True,\n        null=True,\n        db_column=\"CORE_GENERIC_UPDATED_AT\"",
+        "detail": "core.core_utils.utils.generics.generic_models",
+        "documentation": {}
+    },
+    {
+        "label": "EnumChoices",
+        "kind": 6,
+        "importPath": "core.core_utils.utils.enums",
+        "description": "core.core_utils.utils.enums",
+        "peekOfCode": "class EnumChoices(Enum):\n    @classmethod\n    def choices(cls):\n        return [(key.value, key.name.capitalize()) for key in cls]",
+        "detail": "core.core_utils.utils.enums",
+        "documentation": {}
+    },
+    {
+        "label": "CoreUtilsConfig",
+        "kind": 6,
+        "importPath": "core.core_utils.apps",
+        "description": "core.core_utils.apps",
+        "peekOfCode": "class CoreUtilsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core_utils'",
+        "detail": "core.core_utils.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.user_config.accounts.migrations.0001_initial",
+        "description": "core.user_config.accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='BlackListTokenModel',\n            fields=[\n                ('core_generic_created_at', models.DateTimeField(auto_now_add=True, db_column='CORE_GENERIC_CREATED_AT', null=True)),\n                ('core_generic_updated_at', models.DateTimeField(auto_now=True, db_column='CORE_GENERIC_UPDATED_AT', null=True)),",
+        "detail": "core.user_config.accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.user_config.accounts.migrations.0002_initial",
+        "description": "core.user_config.accounts.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('accounts', '0001_initial'),\n        ('user_auth', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='blacklisttokenmodel',",
+        "detail": "core.user_config.accounts.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "core.user_config.accounts.apps",
+        "description": "core.user_config.accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user_config.accounts'\n    label = 'accounts'",
+        "detail": "core.user_config.accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserRoleEnum",
+        "kind": 6,
+        "importPath": "core.user_config.accounts.enums",
+        "description": "core.user_config.accounts.enums",
+        "peekOfCode": "class UserRoleEnum(EnumChoices):\n    ADMIN = \"ADMIN\"\n    TENANT = \"TENANT\"\n    MANAGER = \"MANAGER\"",
+        "detail": "core.user_config.accounts.enums",
+        "documentation": {}
+    },
+    {
+        "label": "BlackListTokenModel",
+        "kind": 6,
+        "importPath": "core.user_config.accounts.models",
+        "description": "core.user_config.accounts.models",
+        "peekOfCode": "class BlackListTokenModel(CoreGenericModel):\n    id = models.UUIDField(\n        primary_key=True,\n        default=uuid.uuid4,\n        editable=False,\n        db_column=\"BLACK_LIST_TOKEN_ID\"\n    )\n    user = models.ForeignKey(\n        UserModel,\n        on_delete=models.CASCADE,",
+        "detail": "core.user_config.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.user_config.user_auth.migrations.0001_initial",
+        "description": "core.user_config.user_auth.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('region_data', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserModel',\n            fields=[",
+        "detail": "core.user_config.user_auth.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UserAuthConfig",
+        "kind": 6,
+        "importPath": "core.user_config.user_auth.apps",
+        "description": "core.user_config.user_auth.apps",
+        "peekOfCode": "class UserAuthConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user_config.user_auth'\n    label = 'user_auth'",
+        "detail": "core.user_config.user_auth.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserRoleModel",
+        "kind": 6,
+        "importPath": "core.user_config.user_auth.models",
+        "description": "core.user_config.user_auth.models",
+        "peekOfCode": "class UserRoleModel(CoreGenericModel):\n    id = models.UUIDField(\n        primary_key=True,\n        default=uuid.uuid4,\n        db_column=\"USER_ROLE_ID\"\n    )\n    title = models.CharField(\n        max_length=100,\n        null= True,\n        blank=True,",
+        "detail": "core.user_config.user_auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserManager",
+        "kind": 6,
+        "importPath": "core.user_config.user_auth.models",
+        "description": "core.user_config.user_auth.models",
+        "peekOfCode": "class CustomUserManager(BaseUserManager):\n    \"\"\"\n    Object Manager for UserModel\n    \"\"\"\n    def create_user(\n        self,email : str, password : str , **extra_fields\n    ):\n        \"\"\"\n        This is a manager method to create a user\n        \"\"\"",
+        "detail": "core.user_config.user_auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "core.user_config.user_auth.models",
+        "description": "core.user_config.user_auth.models",
+        "peekOfCode": "class UserModel(AbstractBaseUser,PermissionsMixin,CoreGenericModel):\n    id = models.UUIDField(\n        unique=True,\n        primary_key=True,\n        default=uuid.uuid4,\n        editable=False,\n        db_column='USER_ID'\n    )\n    username = models.CharField(\n        max_length=100,",
+        "detail": "core.user_config.user_auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetailModel",
+        "kind": 6,
+        "importPath": "core.user_config.user_auth.models",
+        "description": "core.user_config.user_auth.models",
+        "peekOfCode": "class UserDetailModel(CoreGenericModel):\n    user = models.OneToOneField(\n        UserModel,\n        on_delete=models.CASCADE,\n        related_name='UserDetailModel_user',\n        unique=True,\n        db_column=\"USER_DETAIL_ID\"\n    )\n    profile_photo = models.URLField(\n        max_length=100,",
+        "detail": "core.user_config.user_auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserConfigConfig",
+        "kind": 6,
+        "importPath": "core.user_config.apps",
+        "description": "core.user_config.apps",
+        "peekOfCode": "class UserConfigConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'user_config'",
+        "detail": "core.user_config.apps",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "core.manage",
+        "description": "core.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "core.manage",
+        "documentation": {}
+    }
+]
